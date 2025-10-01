@@ -1,0 +1,2 @@
+# Artifical_Inteligence
+AI
